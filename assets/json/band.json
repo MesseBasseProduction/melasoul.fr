@@ -1,332 +1,75 @@
 {
-  "name": "NAC",
+  "name": "Melasoul",
   "bio": {
-    "en": "NAC is a Hard Rock/Progressive Rock band, founded in 1994 in Igny, France. Crafted around Pierrot and Elliot, the band's formation has often evolved to gradually consolidate from 2015. Its eclectic members put their interpretation at the service of their music; straightforward and raw.",
-    "fr": "NAC est un groupe de Hard Rock/Rock Progressif, fondé en 1994 à Igny, France. La formation du groupe a souvent évoluée, autour de Pierrot et Elliot pour progressivement se consolider à partir de 2015. Ses éclectiques membres mettent leur interprétation au service de leur musique ; brute et sans détour.",
-    "es": "NAC is a Hard Rock/Progressive Rock band, founded in 1994 in Igny, France. Crafted around Pierrot and Elliot, the band's formation has often evolved to gradually consolidate from 2015. Its eclectic members put their interpretation at the service of their music; straightforward and raw.",
-    "de": "NAC is a Hard Rock/Progressive Rock band, founded in 1994 in Igny, France. Crafted around Pierrot and Elliot, the band's formation has often evolved to gradually consolidate from 2015. Its eclectic members put their interpretation at the service of their music; straightforward and raw."
+    "fr": "L'idée Melasoul, c'est un groupe de reprises. Deux heure trente de funk, de soul, et bien plus encore… 10 musiciens passionnés qui ont un style, un jeu et une lecture originale de leurs titres préférés, parmi lesquels de grands classiques, mais aussi des choses plus contemporaines.<br><br>Avec les voix superbes de Monia et Guillaume, des riffs de cuivres bien efficaces, des cocottes de guitare qui font tourner la tête, et le tout sur une base rythmique solide et entraînante.<br><br>Melasoul vous apporte de l'énergie en boite de 12, un petit brin de folie et un groove communicatif qui ne devrait laisser personne indifférent...",
+    "de": "Die Idee von Melasoul — das ist eine Coverband. Zweieinhalb Stunden Funk, Soul und noch viel mehr… Zehn leidenschaftliche Musiker mit eigenem Stil, eigenem Sound und einer originellen Interpretation ihrer Lieblingssongs — von großen Klassikern bis hin zu modernen Stücken.<br><br>Mit den großartigen Stimmen von Monia und Guillaume, kraftvollen Bläserriffs, mitreißenden Gitarrenlicks und einer soliden, treibenden Rhythmusgruppe als Fundament.<br><br>Melasoul bringt euch Energie im Zwölferpack, eine Prise Verrücktheit und einen ansteckenden Groove, der garantiert niemanden kaltlässt...",
+    "en": "The Melasoul idea — it's a cover band. Two and a half hours of funk, soul, and much more… Ten passionate musicians with their own style, sound, and unique take on their favorite songs — from timeless classics to more contemporary gems.<br><br>With the superb voices of Monia and Guillaume, punchy brass riffs, irresistible guitar licks, all built on a solid, driving rhythm section.<br><br>Melasoul brings you energy by the dozen, a touch of madness, and an infectious groove that's sure to get everyone moving...",
+    "es": "La idea de Melasoul — es una banda de versiones. Dos horas y media de funk, soul y mucho más… Diez músicos apasionados con su propio estilo, su sonido y una interpretación original de sus canciones favoritas, que van desde los grandes clásicos hasta temas más contemporáneos.<br><br>Con las magníficas voces de Monia y Guillaume, potentes secciones de metales, guitarras con ritmo contagioso, todo sobre una base rítmica sólida y llena de energía.<br><br>Melasoul te trae energía por partida doble, un toque de locura y un groove contagioso que no dejará a nadie indiferente...",
+    "it": "L'idea di Melasoul — è una cover band. Due ore e mezza di funk, soul e molto altro ancora… Dieci musicisti appassionati, con uno stile, un suono e un'interpretazione originale dei loro brani preferiti, che spaziano dai grandi classici a pezzi più contemporanei.<br><br>Con le splendide voci di Monia e Guillaume, riff di fiati potenti, chitarre dal ritmo travolgente e il tutto su una solida e coinvolgente sezione ritmica.<br><br>Melasoul ti porta un'energia in confezione da dodici, un pizzico di follia e un groove contagioso che non lascerà nessuno indifferente..."
   },
   "bandPicture": "Band.webp",
   "members": [
     {
-      "fullName": "David Béché",
-      "picture": "David.webp",
-      "pictureCredit": "Raphaël Beekmann",
+      "fullName": "Vincent Greco",
+      "picture": "Vincent.webp",
+      "pictureCredit": "",
       "bio": {
-        "en": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>",
-        "fr": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>",
-        "de": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>",
-        "es": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>"
-      }, 
-      "roles": ["leadvocals"],
-      "range": "2015-"
-    }, {
-      "fullName": "Pierre Toïgo",
-      "picture": "Pierre.webp",
-      "pictureCredit": "Raphaël Beekmann",
-      "bio": {
-        "en": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>",
-        "fr": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>",
-        "de": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>",
-        "es": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>"
-      },
-      "roles": ["guitar"],
-      "range": "1994-"
-    }, {
-      "fullName": "Lionel Baudet",
-      "picture": "Lionel.webp",
-      "pictureCredit": "Raphaël Beekmann",
-      "bio": {
-        "en": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>",
-        "fr": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>",
-        "de": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>",
-        "es": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>"
-      },
-      "roles": ["guitar"],
-      "range": "1994-"
-    }, {
-      "fullName": "Arthur Beaulieu",
-      "picture": "Arthur.webp",
-      "pictureCredit": "Raphaël Beekmann",
-      "bio": {
-        "en": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>",
-        "fr": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>",
-        "de": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>",
-        "es": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>"
+        "fr": "Bassiste talentueux, vient de la scène soul, funk et jazz, apporte une teinte groovy aux morceaux. Il est surtout un des piliers rythmiques sur lequel le groupe peut s'appuyer. Il participe également aux compositions et arrangements.",
+        "de": "<p>Talentierter Bassist, aus der Soul-, Funk- und Jazzszene kommend, verleiht er den Stücken eine groovige Note. Vor allem ist er einer der rhythmischen Pfeiler, auf die sich die Band stützen kann. Außerdem beteiligt er sich an Kompositionen und Arrangements.</p>",
+        "en": "<p>Talented bassist, coming from the soul, funk, and jazz scene, he brings a groovy touch to the songs. Above all, he is one of the rhythmic pillars on which the band can rely. He also contributes to compositions and arrangements.</p>",
+        "es": "<p>Bajista talentoso, procedente de la escena soul, funk y jazz, aporta un toque groovy a los temas. Sobre todo, es uno de los pilares rítmicos en los que el grupo puede apoyarse. También participa en las composiciones y los arreglos.</p>",
+        "it": ""
       },
       "roles": ["bass"],
-      "range": "2017-"
-    }, {
-      "fullName": "Tom Souty",
-      "picture": "Tom.webp",
-      "pictureCredit": "Arthur Beaulieu",
-      "bio": {
-        "en": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>",
-        "fr": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>",
-        "de": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>",
-        "es": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>"
-      },
-      "roles": ["drums"],
-      "range": "2023-"
+      "range": "2013-"
     }
   ],
-  "pastMembers": [
-    {
-      "fullName": "Sylvain Mallet",
-      "picture": "Sylvain.webp",
-      "pictureCredit": "Guillaume Crantz",
-      "bio": {
-        "en": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>",
-        "fr": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>",
-        "de": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>",
-        "es": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>"
-      },
-      "roles": ["drums"],
-      "range": "2015-2022"
-    },
-    {
-      "fullName": "Christophe Boulogne",
-      "picture": "Sylvain.webp",
-      "pictureCredit": "Guillaume Crantz",
-      "bio": {
-        "en": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>",
-        "fr": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>",
-        "de": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>",
-        "es": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>"
-      },
-      "roles": ["drums"],
-      "range": "2015-2022"
-    }
-  ],
+  "pastMembers": [],
   "events": [
     {
-      "title": "NAC & Roll",
+      "title": "Concert Melasoul à Rambouillet",
       "picture": "Event1.webp",
-      "date": "2030-01-01",
-      "place": "Tour Eiffel - Paris",
-      "url": "https://messe-basse-production.com",
+      "date": "2024-06-22",
+      "place": "Rue des Gaules — Rambouillet",
+      "url": "https://www.facebook.com/events/1444835522878992",
       "description": {
-        "en": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>",
-        "fr": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>",
-        "de": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>",
-        "es": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>"
-      }    
-    }, {
-      "title": "Rock & NAC",
-      "picture": "Event2.webp",
-      "date": "2010-01-01",
-      "place": "Tour Eiffel - Paris",
-      "url": "https://messe-basse-production.com",
-      "description": {
-        "en": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>",
-        "fr": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>",
-        "de": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>",
-        "es": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>"
+        "fr": "Pour la fête de la musique, Melasoul joue à Rambouillet, sur la scène 15, au niveau du 117 Rue des Gaules.",
+        "de": "Zum Tag der Musik spielt Melasoul in Rambouillet, auf Bühne 15, in der Nähe der Rue des Gaules 117.",
+        "en": "For the Fête de la Musique, Melasoul will be performing in Rambouillet, on stage 15, near 117 Rue des Gaules.",
+        "es": "Para la Fiesta de la Música, Melasoul tocará en Rambouillet, en el escenario 15, cerca del 117 Rue des Gaules.",
+        "it": "Per la Festa della Musica, Melasoul suonerà a Rambouillet, sul palco 15, vicino al 117 Rue des Gaules."
       }    
     }
   ],
-  "releases": [
-    {
-      "title": "Dystopie",
-      "artist": "NAC",
-      "cover": "Dystopie.webp",
-      "audio": "DystopieExtract.mp3",
-      "date": "2021-11-09",
-      "duration": "46:30",
-      "label": "Messe Basse Production",
-      "labelLink": "https://messe-basse-production.com/",
-      "showOnMainPage": true,
-      "links": [
-        {
-          "type": "spotify",
-          "url": "https://open.spotify.com/album/44p4oWCfMZKX9HJt64ncoj"
-        }, {
-          "type": "apple",
-          "url": "https://music.apple.com/album/dystopie/1588780184"
-        }, {
-          "type": "amazon",
-          "url": "https://music.amazon.fr/albums/B09HRC1LJS"
-        }, {
-          "type": "deezer",
-          "url": "https://www.deezer.com/fr/album/263543602"
-        }, {
-          "type": "youtube",
-          "url": "https://www.youtube.com/watch?v=c8WVsM9SDgc&list=PLp5D05IpZHwLKjS1HYOAMvtdc3rFaLFze"
-        }, {
-          "type": "bandcamp",
-          "url": "https://nacband.bandcamp.com/album/dystopie"
-        }
-      ],
-      "moreLinks": [
-        {
-          "type": "tidal",
-          "url": "https://listen.tidal.com/album/200014684"            
-        }, {
-          "type": "genius",
-          "url": "https://genius.com/albums/Nac-fra/Dystopie"            
-        }, {
-          "type": "discogs",
-          "url": "https://www.discogs.com/release/20399056-NAC-Dystopie"            
-        }, {
-          "type": "musicbrainz",
-          "url": "https://musicbrainz.org/release/39049941-c348-4aeb-b86b-a5af7093d3ea"            
-        }
-      ],
-      "tracks": [
-        {
-          "title": "Crad' Bar Boogie",
-          "duration": "6:48",
-          "composer": "Pierre Toïgo",
-          "author": "David Béché"
-        },
-        {
-          "title": "Bad Dreams",
-          "duration": "6:08",
-          "composer": "Pierre Toïgo",
-          "author": "David Béché, Philippe Dromard"
-        },
-        {
-          "title": "Dystopie",
-          "duration": "6:12",
-          "composer": "Philippe Dromard, Pierre Toïgo",
-          "author": "Arthur Beaulieu"
-        },
-        {
-          "title": "Nature Humaine",
-          "duration": "6:03",
-          "composer": "Lionel Baudet, Pierre Toïgo",
-          "author": "Arthur Beaulieu, Lionel Baudet"
-        },
-        {
-          "title": "Amor Ciego",
-          "duration": "6:23",
-          "composer": "Lionel Baudet, Pierre Toïgo",
-          "author": "David Béché"
-        },
-        {
-          "title": "Tramp",
-          "duration": "6:43",
-          "composer": "Arthur Beaulieu, Pierre Toïgo",
-          "author": "David Béché"
-        },
-        {
-          "title": "Résilience (feat. Tom)",
-          "duration": "8:09",
-          "composer": "Pierre Toïgo",
-          "author": "David Béché"
-        }
-      ]
-    },
-    {
-      "title": "Nature Humaine Origins",
-      "artist": "NAC",
-      "cover": "Nature.webp",
-      "audio": "NatureExtract.mp3",
-      "date": "2022-03-03",
-      "duration": "8:14",
-      "label": "Messe Basse Production",
-      "labelLink": "https://messe-basse-production.com/",
-      "showOnMainPage": true,
-      "links": [
-        {
-          "type": "spotify",
-          "url": "https://open.spotify.com/album/1opR5BwZcZDSMZIsILnBSJ"
-        }, {
-          "type": "apple",
-          "url": "https://music.apple.com/album/nature-humaine-origins-feat-karine-fernel-single/1616262749"
-        }, {
-          "type": "amazon",
-          "url": ""
-        }, {
-          "type": "deezer",
-          "url": ""
-        }, {
-          "type": "youtube",
-          "url": "https://www.youtube.com/watch?v=aZJlt92yi1o&list=PLp5D05IpZHwJ3H5UscRcUlvZptZc3p1lM"
-        }, {
-          "type": "bandcamp",
-          "url": "https://nacband.bandcamp.com/album/nature-humaine-origins-single"
-        }
-      ],
-      "moreLinks": [
-        {
-          "type": "tidal",
-          "url": ""            
-        }, {
-          "type": "genius",
-          "url": "https://genius.com/albums/Nac-fra/Nature-humaine-origins"            
-        }, {
-          "type": "discogs",
-          "url": "https://www.discogs.com/release/22272463-NAC-Nature-Humaine-Origins"            
-        }, {
-          "type": "musicbrainz",
-          "url": ""            
-        }
-      ],
-      "tracks": [
-        {
-          "title": "La Nature Humaine (feat. Karine Fernel)",
-          "duration": "8:14",
-          "composer": "Lionel Baudet, Pierre Toïgo",
-          "author": "Lionel Baudet"
-        }
-      ]
-    }
-  ],
+  "releases": [],
   "medias": [
     {
-      "type": "iframe",
-      "title": "NAC – Dystopie Live (Concert Complet)",
-      "link": "https://tube.mycozy.space/videos/embed/5a713c21-3093-457f-be5a-1951ea6c4ab0"
-    }, {
       "type": "image",
       "link": "./assets/img/artists/sample1.webp"
-    }, {
-      "type": "image",
-      "link": "./assets/img/artists/sample2.webp"
-    }, {
-      "type": "image",
-      "link": "./assets/img/artists/sample3.webp"
     }
   ],
   "links": [
     {
-      "type": "spotify",
-      "name": "Spotify",
-      "url": "https://open.spotify.com/artist/71YUgouAzYQ9NYerniOasC/"
+      "type": "facebook",
+      "name": "Facebook",
+      "url": "https://www.facebook.com/Melasoul"
     }, {
-      "type": "apple",
-      "name": "Apple Music",        
-      "url": "https://music.apple.com/artist/nac/1588180391"
+      "type": "instagram",
+      "name": "Instagram",
+      "url": "https://www.instagram.com/melasoul_music/"
     }, {
-      "type": "deezer",
-      "name": "Deezer",
-      "url": "https://www.deezer.com/artist/161217332"
+      "type": "tiktok",
+      "name": "Tik Tok",
+      "url": "https://www.tiktok.com/@melasoul_music"
     }, {
-      "type": "amazon",
-      "name": "Amazon Music",
-      "url": "https://music.amazon.fr/artists/B0933N2ZTY/nac/"
+      "type": "youtube",
+      "name": "YouTube",
+      "url": "https://www.youtube.com/@melasoul_music"
     }, {
-      "type": "tidal",
-      "name": "Tidal",
-      "url": "https://tidal.com/artist/31364715"
-    }, {
-      "type": "bandcamp",
-      "name": "Bandcamp",
-      "url": "https://nacband.bandcamp.com/"
-    }, {
-      "type": "discogs",
-      "name": "Discogs",
-      "url": "https://www.discogs.com/artist/10054414-NAC-7/"
-    }, {
-      "type": "genius",
-      "name": "Genius",
-      "url": "https://genius.com/artists/Nac-fra/"
-    }, {
-      "type": "musicbrainz",
-      "name": "MusicBrainz",
-      "url": "https://musicbrainz.org/artist/3e3ccb24-a46b-42ee-b7d4-b87ed2d75333"
-    }
+      "type": "reverbnation",
+      "name": "Reverbnation",
+      "url": "https://www.reverbnation.com/melasoul"
+    }    
   ],
   "styles": {
     "mainColor": "#D45656",

@@ -1,7 +1,7 @@
 {
-  "name": "bandwebsite",
+  "name": "melasoul",
   "version": "1.2.0",
-  "description": "A template to make a band or artist website ",
+  "description": "Melasoul band official website",
   "keywords": [],
   "main": "src/bw.js",
   "scripts": {
@@ -9,13 +9,13 @@
     "watch": "webpack --watch --config webpack/webpack.dev.js",
     "start": "node src/server.js"
   },
-  "homepage": "https://github.com/MesseBasseProduction/BandWebsite/README.md",
+  "homepage": "https://github.com/MesseBasseProduction/melasoul.fr/README.md",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MesseBasseProduction/BandWebsite.git"
+    "url": "git+https://github.com/MesseBasseProduction/melasoul.fr.git"
   },
   "bugs": {
-    "url": "https://github.com/MesseBasseProduction/BandWebsite/issues"
+    "url": "https://github.com/MesseBasseProduction/melasoul.fr/issues"
   },
   "author": "ArthurBeaulieu",
   "license": "GPL-3.0",

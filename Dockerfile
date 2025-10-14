@@ -1,7 +1,7 @@
 FROM node:18-alpine
 
-RUN mkdir /band_website
-WORKDIR /band_website
+RUN mkdir /melasoul.fr
+WORKDIR /melasoul.fr
 
 RUN apk add --update --virtual .tmp-deps python3 make g++ && \
     rm -rf /var/cache/apk/*

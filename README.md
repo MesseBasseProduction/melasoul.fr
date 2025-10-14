@@ -1,3 +1,7 @@
+# melasou.fr
+
+The official website for the soul cover band Melasoul. This website is based on the template https://github.com/MesseBasseProduction/BandWebsite/. Here is the README associated to BandWebsite :
+
 # BandWebsite
 
 ![](https://badgen.net/badge/version/1.2.0/blue)

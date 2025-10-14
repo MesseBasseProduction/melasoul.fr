@@ -1,0 +1,37 @@
+{
+  "roles": {
+    "leadvocals": "Chant Principal",
+    "backvocals": "Chœurs",
+    "guitar": "Guitare",
+    "keyboard": "Clavier",
+    "bass": "Basse",
+    "doublebass": "Contrebasse",
+    "drums": "Batterie"
+  },
+  "eventsLink": "Nous voir en concert",
+  "listenLink": "Voir la discographie",
+  "treeLink": "Retrouvez-nous en ligne",
+  "events": "Évènements à venir",
+  "pastEvents": "Évènements passés",
+  "works": "Les Œuvres",
+  "musicians": "Les Musiciens",
+  "medias": "Médias",
+  "learnMore": "Cliquez pour en savoir plus",
+  "pastMembers": "Anciens membres",
+  "listenOnline": "Écouter en ligne",
+  "publishedOn": "Publié le",
+  "author": "Auteur",
+  "composer": "Compositeur",
+  "seeMore": "voir plus",
+  "from": "de",
+  "to": "à",
+  "since": "depuis",
+  "close": "Fermer",
+  "lang": {
+    "en": "🇬🇧 Anglais",
+    "fr": "🇫🇷 Français",
+    "es": "🇪🇸 Espagnol",
+    "de": "🇩🇪 Allemand",
+    "it": "🇮🇹 Italien"
+  }
+}

@@ -18,7 +18,8 @@ main.homepage {
 
     .band-picture {
       border-radius: .5rem;
-      height: 50rem;
+      max-height: 50rem;
+      max-width: 100%;
       margin-bottom: var(--spacing);
     }
 
@@ -70,7 +71,7 @@ main.homepage {
   section {
     display: grid;
     grid-gap: 1rem;
-    grid-template-columns: calc(33% - .5rem) calc(33% - .5rem) calc(33% - .5rem);
+    grid-template-columns: repeat(5, calc(20% - .5rem));
     justify-items: center;
     margin-bottom: var(--spacing-large);
     padding: 0 8%;

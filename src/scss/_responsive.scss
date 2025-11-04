@@ -46,15 +46,21 @@
     }
   }
 
-  main.homepage nav {
-    .nav-content {
-      padding: var(--spacing-large) var(--spacing-large);
-      padding-right: calc(var(--spacing-large) + var(--default-scroll-size));
-
-      .band-picture {
-        height: auto;
-        width: 100%;
+  main.homepage {
+    nav {
+      .nav-content {
+        padding: var(--spacing-large) var(--spacing-large);
+        padding-right: calc(var(--spacing-large) + var(--default-scroll-size));
+      
+        .band-picture {
+          height: auto;
+          width: 100%;
+        }
       }
+    }
+
+    section {
+      grid-template-columns: repeat(2, calc(50% - .5rem));
     }
   }
 

@@ -1,10 +1,11 @@
-# melasou.fr
+# melasoul.fr
 
-The official website for the soul cover band Melasoul. This website is based on the template https://github.com/MesseBasseProduction/BandWebsite/. Here is the README associated to BandWebsite :
+![](https://badgen.net/badge/version/1.3.0/blue)
+
+The official website for the soul cover band Melasoul. This website is based on the template [https://github.com/MesseBasseProduction/BandWebsite/](https://github.com/MesseBasseProduction/BandWebsite/). Here is the README associated to BandWebsite :
 
 # BandWebsite
 
-![](https://badgen.net/badge/version/1.2.0/blue)
 [![License](https://img.shields.io/github/license/MesseBasseProduction/BandWebsite.svg)](https://github.com/MesseBasseProduction/BandWebsite/blob/main/LICENSE)
 
 A static website template for a band, providing pages where one can find the band's biography, a list of current and past members, a list of the band's releases and a set of medias. Additionnaly to this landing page, the template also provides a page to listen to tracks and finally, a link tree to share all of the band's links! Translated in French 🇫🇷, English 🇬🇧, Spanish 🇪🇸 and German 🇩🇪. This website was meant to be as light as possible, keeping it's assets to the minimum so the navigation is lightning fast (~50Ko of bunddled assets)!

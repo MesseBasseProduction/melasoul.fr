@@ -8,31 +8,6 @@
     max-width: inherit;
     width: 95%;
   }
-
-  body.links {
-    main {
-      .link-wrapper {
-        padding: 2rem;
-        max-height: 95%;
-        width: 95%;
-
-        img.main-logo {
-          height: 6rem;
-        }
-
-        .link {
-          img {
-            margin: 0 1rem;
-          }
-
-          P {
-            font-size: 1.2rem;
-            margin-right: 1rem;
-          }
-        }
-      }
-    }
-  }
 }
 
 @media (max-width: 870px) {
@@ -90,7 +65,7 @@
         padding-right: calc(var(--spacing) + var(--default-scroll-size));
 
         h1 {
-          font-size: 4.4rem;
+          font-size: 2.4rem;
         }
 
         h2 {
@@ -136,6 +111,37 @@
       }
     }
 
+    p.musicians-description,
+    p.works-description {
+      padding: 0 var(--spacing);
+      padding-right: calc(var(--spacing) + var(--default-scroll-size));
+      margin-bottom: var(--spacing-large);
+    }
+
+    section.artists {
+      grid-gap: var(--spacing);
+      grid-template-columns: repeat(2, 50%);
+      margin-bottom: var(--spacing-large);
+    }
+
+    section.events .two-col {
+      grid-template-columns: repeat(2, 50%);
+    }
+
+    section.works {
+      div {
+        grid-template-columns: 20% 40% 40%;
+
+        p {
+          font-size: 1.2rem;
+        }
+      }
+    }
+
+    section.link-wrapper {
+      margin-bottom: var(--spacing-large);
+    }
+
     figure {
       grid-template-columns: 100%;
       padding: 0 var(--spacing);
@@ -143,17 +149,6 @@
 
       iframe {
         grid-column: 1;
-      }
-    }
-  }
-
-  main.events {
-    section {
-      /* Only one child element */
-      &:has(> :last-child:nth-child(1)),
-      &:has(> :last-child:nth-child(2)) {
-        grid-template-columns: inherit;
-        max-width: inherit;
       }
     }
   }
@@ -166,27 +161,6 @@
   .modal.past-members-modal {
     .past-member {
       grid-template-columns: 1fr;
-    }
-  }
-
-  section.track-playback {
-    .featured-track-wrapper {
-      .previous-release,
-      .next-release {
-        display: none;
-      }
-    }
-  }
-
-  main.tree {
-    .content {
-      padding: var(--spacing);
-
-      .link-wrapper {
-        .link-container {
-          grid-template-columns: 1fr;
-        }
-      }
     }
   }
 }
@@ -213,36 +187,6 @@
 
       a {
         margin: .2rem;
-      }
-    }
-  }
-}
-
-@media (max-height: 630px) {
-  section.track-links {
-    h1 {
-      font-size: 1.9rem;
-    }
-
-    h2 {
-      font-size: 1.5rem;
-    }
-
-    h2, p {
-      margin-bottom: .2rem;
-    }
-
-    .listen-online {
-      a {
-        padding: .5rem 1rem;
-
-        img {
-          margin-right: .5rem;
-        }
-
-        p {
-          font-size: 1.3rem;
-        }
       }
     }
   }

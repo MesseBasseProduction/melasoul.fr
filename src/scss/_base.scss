@@ -4,7 +4,7 @@
   --spacing-small: 1rem;
   --spacing-large: 4rem;
 
-  --color-main: #FFBF00;
+  --color-main: #ED7D31;
 
   --transition: .2s;
   --transition-long: 1.2s;
@@ -23,21 +23,21 @@
     --color-bg: rgb(245, 245, 245);
     --color-bg-a1: rgba(245, 245, 245, .1);
     --color-bg-a5: rgba(245, 245, 245, .5);
-    --color-bg-alt: rgb(215, 215, 215);
+    --color-bg-alt: rgb(225, 225, 225);
     --color-bg-alt-a5: rgba(215, 215, 215, .5);
   }
 }
 
 @media (prefers-color-scheme: dark) {
   :root {
-    --color-txt: rgb(245, 245, 245);
-    --color-txt-a1: rgba(245, 245, 245, .1);
-    --color-txt-a5: rgba(245, 245, 245, .5);
+    --color-txt: rgb(191, 191, 191);
+    --color-txt-a1: rgba(191, 191, 191, .1);
+    --color-txt-a5: rgba(191, 191, 191, .5);
 
     --color-bg: rgb(15, 15, 15);
     --color-bg-a1: rgba(15, 15, 15, .1);
     --color-bg-a5: rgba(15, 15, 15, .5);
-    --color-bg-alt: rgb(75, 75, 75);
+    --color-bg-alt: rgb(35, 35, 35);
     --color-bg-alt-a5: rgba(75, 75, 75, .5);
   }
 }

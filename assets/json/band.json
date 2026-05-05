@@ -1,16 +1,30 @@
 {
   "name": "Melasoul",
-  "bio": {
-    "de": "<p>Die Idee von Melasoul — das ist eine Coverband. Zweieinhalb Stunden Funk, Soul und noch viel mehr… Zehn leidenschaftliche Musiker mit eigenem Stil, eigenem Sound und einer originellen Interpretation ihrer Lieblingssongs — von großen Klassikern bis hin zu modernen Stücken.</p><br><p>Mit den großartigen Stimmen von Monia und Guillaume, kraftvollen Bläserriffs, mitreißenden Gitarrenlicks und einer soliden, treibenden Rhythmusgruppe als Fundament.</p><br><p>Melasoul bringt euch Energie im Zwölferpack, eine Prise Verrücktheit und einen ansteckenden Groove, der garantiert niemanden kaltlässt...</p><br><p>Sie können uns per E-Mail unter <a href=\"mailto:melasoul.band@gmail.com\" alt=\"band-mail\">melasoul.band@gmail.com</a> kontaktieren und Sie können unser <a href=\"/assets/doc/Fiche-Technique-v2025.pdf\">technisches Datenblatt</a> einsehen.</p>",
-    "en": "<p>The Melasoul idea — it's a cover band. Two and a half hours of funk, soul, and much more… Ten passionate musicians with their own style, sound, and unique take on their favorite songs — from timeless classics to more contemporary gems.</p><br><p>With the superb voices of Monia and Guillaume, punchy brass riffs, irresistible guitar licks, all built on a solid, driving rhythm section.</p><br><p>Melasoul brings you energy by the dozen, a touch of madness, and an infectious groove that's sure to get everyone moving...</p><br><p>You can contact us by email at <a href=\"mailto:melasoul.band@gmail.com\" alt=\"band-mail\">melasoul.band@gmail.com</a> and you can consult our <a href=\"/assets/doc/Fiche-Technique-v2025.pdf\">technical sheet</a>.</p>",
-    "es": "<p>La idea de Melasoul — es una banda de versiones. Dos horas y media de funk, soul y mucho más… Diez músicos apasionados con su propio estilo, su sonido y una interpretación original de sus canciones favoritas, que van desde los grandes clásicos hasta temas más contemporáneos.</p><br><p>Con las magníficas voces de Monia y Guillaume, potentes secciones de metales, guitarras con ritmo contagioso, todo sobre una base rítmica sólida y llena de energía.</p><br><p>Melasoul te trae energía por partida doble, un toque de locura y un groove contagioso que no dejará a nadie indiferente...</p><br><p>Puede contactarnos por correo electrónico en <a href=\"mailto:melasoul.band@gmail.com\" alt=\"band-mail\">melasoul.band@gmail.com</a> y puede consultar nuestra <a href=\"/assets/doc/Fiche-Technique-v2025.pdf\">ficha técnica</a>.</p>",
-    "fr": "<p>L'idée Melasoul, c'est un groupe de reprises. Deux heure trente de funk, de soul, et bien plus encore… 10 musiciens passionnés qui ont un style, un jeu et une lecture originale de leurs titres préférés, parmi lesquels de grands classiques, mais aussi des choses plus contemporaines.</p><br><p>Avec les voix superbes de Monia et Guillaume, des riffs de cuivres bien efficaces, des cocottes de guitare qui font tourner la tête, et le tout sur une base rythmique solide et entraînante.</p><br><p>Melasoul vous apporte de l'énergie en boite de 12, un petit brin de folie et un groove communicatif qui ne devrait laisser personne indifférent...</p><br><p>Vous pouvez nous contacter par mail sur <a href=\"mailto:melasoul.band@gmail.com\" alt=\"band-mail\">melasoul.band@gmail.com</a> et vous pouvez consulter notre <a href=\"/assets/doc/Fiche-Technique-v2025.pdf\">fiche technique</a>.</p>",
-    "it": "<p>L'idea di Melasoul — è una cover band. Due ore e mezza di funk, soul e molto altro ancora… Dieci musicisti appassionati, con uno stile, un suono e un'interpretazione originale dei loro brani preferiti, che spaziano dai grandi classici a pezzi più contemporanei.</p><br><p>Con le splendide voci di Monia e Guillaume, riff di fiati potenti, chitarre dal ritmo travolgente e il tutto su una solida e coinvolgente sezione ritmica.</p><br><p>Melasoul ti porta un'energia in confezione da dodici, un pizzico di follia e un groove contagioso che non lascerà nessuno indifferente...</p><br><p>Potete contattarci via e-mail all'indirizzo <a href=\"mailto:melasoul.band@gmail.com\" alt=\"band-mail\">melasoul.band@gmail.com</a> e potete consultare la nostra <a href=\"/assets/doc/Fiche-Technique-v2025.pdf\">scheda tecnica</a>.</p>"
-  },
   "bandPicture": "Band.webp",
+  "shortBio": {
+    "de": "Melasoul sind zehn Musiker auf der Bühne, die ein intensives Live-Erlebnis schaffen.",
+    "en": "Melasoul is ten musicians on stage creating an intense live experience.",
+    "es": "Melasoul son diez músicos en el escenario que crean una experiencia en vivo intensa.",
+    "fr": "Melasoul, c'est dix musiciens sur scène qui créent une expérience live intense.",
+    "it": "Melasoul sono dieci musicisti sul palco che creano un'esperienza live intensa."
+  },
+  "bio": {
+    "de": "<p>Funk- und Soulmusik durch eine originelle Interpretation großer Klassiker von James Brown, Tower of Power und Prince unter anderem, aber auch modernerer Titel von Maxwell, Dua Lipa, Lizzo usw... Mehr als einfache Coverversionen wird jeder Song neu arrangiert, um mit einer starken und selbstbewussten Handschrift zu klingen: der Melasoul-Touch.</p><br><p>Mit den ausdrucksstarken Stimmen von Monia und Guillaume, knackigen Bläserriffs, mitreißenden Gitarren-Grooves und einer Rhythmussektion, die alle mitreißt, schafft die Band eine echte Verbindung mit dem Publikum. Schnell richten sich Bühne und Saal auf drei Elemente aus: Energie, Groove und Gefühl.</p><br><p>Und dann passiert etwas. Ein viertes Element taucht auf. Das Feuer, das uns antreibt, uns vereint und uns bewegt, ohne dass wir darüber nachdenken. Für einen Abend blendet es alles andere aus… Einer dieser seltenen Momente, in denen wir alle genau wissen, warum wir hier sind…</p><br><p>Einige dieser gemeinsamen Momente könnt ihr auf unserem <a href=\"https://www.instagram.com/melasoul.band/\">Instagram</a>, unserem <a href=\"https://www.youtube.com/@melasoul_music\">YouTube-Kanal</a> ansehen oder sogar live bei einem unserer nächsten Auftritte erleben?</p><br><p>In jedem Fall könnt ihr uns gerne unter <a href=\"mailto:melasoul.band@gmail.com\" alt=\"band-mail\">melasoul.band@gmail.com</a> kontaktieren, damit wir gemeinsam über euer Event sprechen können.</p><br><p>Bis bald!!!</p>",
+    "en": "<p>Funk and soul music brought to life through an original take on great classics from James Brown, Tower of Power and Prince among others, as well as more contemporary tracks by Maxwell, Dua Lipa, Lizzo, etc... More than simple covers, each song is rearranged to carry a strong and distinctive identity: the Melasoul touch.</p><br><p>With the expressive voices of Monia and Guillaume, punchy brass riffs, head-spinning guitar grooves, and a rhythm section that gets everyone moving, the band creates a real connection with the audience. Very quickly, the stage and the crowd align around three elements: energy, groove, and feeling.</p><br><p>And then, something happens. A fourth element emerges. The fire that drives us, brings us together, and makes us move without even thinking. It wipes everything else away for an evening… One of those rare moments where, all together, we know exactly why we are there…</p><br><p>You can check out some of these shared moments on our <a href=\"https://www.instagram.com/melasoul.band/\">Instagram</a>, our <a href=\"https://www.youtube.com/@melasoul_music\">YouTube channel</a>, or even come and experience it live at one of our upcoming shows?</p><br><p>In any case, feel free to contact us at <a href=\"mailto:melasoul.band@gmail.com\" alt=\"band-mail\">melasoul.band@gmail.com</a> so we can discuss your event together.</p><br><p>See you soon!!!</p>",
+    "es": "<p>Música funk y soul a través de una interpretación original de grandes clásicos de James Brown, Tower of Power y Prince, entre otros, así como temas más contemporáneos de Maxwell, Dua Lipa, Lizzo, etc... Más que simples versiones, cada tema es re-arreglado para sonar con una identidad fuerte y marcada: el toque Melasoul.</p><br><p>Con la expresividad de las voces de Monia y Guillaume, riffs de metales contundentes, grooves de guitarra que hacen girar la cabeza y una sección rítmica que arrastra a todo el mundo, el grupo crea una verdadera conexión con el público. Rápidamente, el escenario y la sala se alinean en torno a tres elementos: energía, groove y feeling.</p><br><p>Y entonces, algo sucede. Aparece un cuarto elemento. El fuego que nos impulsa, nos une y nos hace movernos sin siquiera pensarlo. Borra todo lo demás durante una noche… Uno de esos momentos raros en los que, todos juntos, sabemos exactamente por qué estamos ahí…</p><br><p>Puedes ver algunos de estos momentos compartidos en nuestro <a href=\"https://www.instagram.com/melasoul.band/\">Instagram</a>, nuestro <a href=\"https://www.youtube.com/@melasoul_music\">canal de YouTube</a>, o incluso venir a vivirlo en directo en una de nuestras próximas fechas?</p><br><p>En cualquier caso, no dudes en contactarnos en <a href=\"mailto:melasoul.band@gmail.com\" alt=\"band-mail\">melasoul.band@gmail.com</a> para que podamos hablar juntos de tu evento.</p><br><p>¡Hasta muy pronto!!!</p>",
+    "fr": "<p>De la musique funk et soul à travers une lecture originale de grands classiques, de James Brown, Tower of Power et Prince entre autres, mais aussi de titres plus contemporains de Maxwell, Dua Lipa, Lizzo, etc... Plus que de simples reprises, chaque morceau est réarrangé pour sonner avec une emprunte forte et assumée : la touche Melasoul.</p><br><p>Avec l'expressivité des voix de Monia et Guillaume, les riffs de cuivres qui claquent, les cocottes de guitare qui font tourner la tête et une section rythmique qui embarque tout le monde, le groupe crée une vraie connexion avec le public. Rapidement, la scène et la salle s'alignent autour de ces trois éléments : l'énergie, le groove et le feeling.</p><br><p>Et puis, quelque chose se passe. Un quatrième élément surgit. Le feu qui nous anime, nous rassemble et nous fait bouger sans même y penser. Ça efface tout le reste le temps d'une soirée… Un de ces moments rares où, tous ensemble, on sait exactement pourquoi on est là…</p><br><p>Vous pouvez aller voir quelques-uns de ces moments partagés sur notre <a href=\"https://www.instagram.com/melasoul.band/\">Insta</a>, notre chaine <a href=\"https://www.youtube.com/@melasoul_music\">YouTube</a>, ou même venir tester en live lors d'une de nos prochaines dates ?</p><br><p>Dans tous les cas, n'hésitez pas à nous contacter à l'adresse <a href=\"mailto:melasoul.band@gmail.com\" alt=\"band-mail\">melasoul.band@gmail.com</a> pour que nous discutions ensemble de votre évènement.</p><br><p>À très bientôt !!!</p>",
+    "it": "<p>Musica funk e soul attraverso una rilettura originale dei grandi classici di James Brown, Tower of Power e Prince tra gli altri, ma anche di brani più contemporanei di Maxwell, Dua Lipa, Lizzo, ecc... Più che semplici cover, ogni brano viene riarrangiato per avere un'identità forte e decisa: il tocco Melasoul.</p><br><p>Con l'espressività delle voci di Monia e Guillaume, riff di fiati incisivi, groove di chitarra che fanno girare la testa e una sezione ritmica che trascina tutti, la band crea una vera connessione con il pubblico. Rapidamente, palco e platea si allineano attorno a tre elementi: energia, groove e feeling.</p><br><p>E poi, succede qualcosa. Un quarto elemento emerge. Il fuoco che ci anima, ci unisce e ci fa muovere senza nemmeno pensarci. Cancella tutto il resto per una sera… Uno di quei momenti rari in cui, tutti insieme, sappiamo esattamente perché siamo lì…</p><br><p>Puoi vedere alcuni di questi momenti condivisi sul nostro <a href=\"https://www.instagram.com/melasoul.band/\">Instagram</a>, il nostro <a href=\"https://www.youtube.com/@melasoul_music\">canale YouTube</a>, oppure venire a provarlo dal vivo in una delle nostre prossime date?</p><br><p>In ogni caso, non esitare a contattarci all'indirizzo <a href=\"mailto:melasoul.band@gmail.com\" alt=\"band-mail\">melasoul.band@gmail.com</a> per discutere insieme del tuo evento.</p><br><p>A prestissimo!!!</p>"
+  },
+  "team": {
+    "de": "<p>Zehn Musiker auf der Bühne sind unsere Standardbesetzung. Mit diesem Ensemble fühlen wir uns am wohlsten, um unsere Musik zu spielen. Für das Publikum bedeutet das ein reichhaltigeres, immersiveres und visuell stärkeres Erlebnis. Die perfekte Wahl, wenn Sie eine große Bühne haben und viele Gäste für Ihre Veranstaltung erwarten.</p><br><p>Wir sind uns jedoch bewusst, dass dies auch eine Einschränkung darstellen kann. Und da wir nicht dazu neigen, auf kleinere Bühnen zu verzichten, bieten wir auch Auftritte in reduzierter Besetzung mit dem Melasoul Combo an: ein Ensemble aus 6 Musikern – Bass, Schlagzeug, Gitarre, ein Gesang und zwei Bläser.</p><br><p>Wir bieten beide Formate zum gleichen Preis an, damit Sie das wählen können, was am besten zu Ihrer Veranstaltung passt – ohne Budgeteinschränkungen.</p>",
+    "en": "<p>Ten musicians on stage is our standard setup. It's with this formation that we feel most comfortable playing our music. For the audience, it means a richer, more immersive, and more visual experience. The perfect choice if you have a large stage and expect a good crowd for your event.</p><br><p>However, we understand that this can be a constraint. And since we're not the kind to give up playing on smaller stages, we also offer performances in a reduced format with the Melasoul Combo: a 6-piece band with bass, drums, guitar, one vocalist, and two brass players.</p><br><p>We offer both formats at the same price, so you can choose the one that best fits your event, without budget constraints.</p>",
+    "es": "<p>Diez músicos en el escenario es nuestra formación base. Es con este conjunto que nos sentimos más cómodos tocando nuestra música. Para el público, es una experiencia sonora más rica, más inmersiva y más visual. La elección perfecta si tienes un escenario grande y esperas bastante público para tu evento.</p><br><p>Pero somos conscientes de que esto puede ser una limitación. Y como no somos de los que renuncian a tocar en escenarios pequeños, también ofrecemos actuaciones en formato reducido con el Combo Melasoul: una formación de 6 músicos con bajo, batería, guitarra, una voz y dos metales.</p><br><p>Ofrecemos ambas fórmulas al mismo precio, para que puedas elegir la que mejor se adapte a tu evento, sin limitaciones de presupuesto.</p>",
+    "fr": "<p>Dix musiciens sur scène, c'est notre formule de base. C'est avec cet ensemble qu'on est le plus à l'aise pour jouer notre musique. Pour le public c'est une expérience sonore plus riche, plus immersive, et plus visuelle. Le choix parfait si vous avez une grande scène et si vous attendez un peu de monde pour votre évènement.</p><br><p>Mais on est bien conscient que cela peut représenter une contrainte. Et comme on n'est pas du genre à renoncer à jouer sur des petites scènes, on vous propose des prestations en formation réduite avec le Combo Melasoul : un ensemble de 6 musiciens : basse-batterie-guitare, un chant et deux cuivres.</p><br><p>Nous proposons les deux formules au même prix, afin de vous laisser choisir celle qui correspond le mieux à votre événement, sans contrainte budgétaire.</p>",
+    "it": "<p>Dieci musicisti sul palco è la nostra formazione base. È con questo ensemble che ci sentiamo più a nostro agio nel suonare la nostra musica. Per il pubblico significa un'esperienza sonora più ricca, più immersiva e più visiva. La scelta perfetta se avete un grande palco e vi aspettate un buon pubblico per il vostro evento.</p><br><p>Siamo però consapevoli che questo può rappresentare un vincolo. E dato che non siamo il tipo da rinunciare a suonare su palchi più piccoli, offriamo anche esibizioni in formazione ridotta con il Combo Melasoul: un gruppo di 6 musicisti con basso, batteria, chitarra, una voce e due fiati.</p><br><p>Proponiamo entrambe le formule allo stesso prezzo, così da permettervi di scegliere quella più adatta al vostro evento, senza vincoli di budget.</p>"
+  },
   "members": [
     {
-      "fullName": "Monia",
+      "fullName": "Monia LILY",
       "picture": "Monia.webp",
       "pictureCredit": "",
       "bio": {
@@ -23,7 +37,7 @@
       "roles": ["leadvocals"],
       "range": "2021-"
     }, {
-      "fullName": "Guillaume",
+      "fullName": "Guillaume DEBROS",
       "picture": "Guillaume.webp",
       "pictureCredit": "",
       "bio": {
@@ -36,7 +50,7 @@
       "roles": ["leadvocals"],
       "range": ""
     }, {
-      "fullName": "Thierry",
+      "fullName": "Thierry MORIN",
       "picture": "Thierry.webp",
       "pictureCredit": "",
       "bio": {
@@ -49,33 +63,7 @@
       "roles": ["guitar"],
       "range": ""
     }, {
-      "fullName": "Jérôme",
-      "picture": "Jérôme.webp",
-      "pictureCredit": "",
-      "bio": {
-        "de": "<p>Am Konservatorium an der Querflöte ausgebildet, entdeckte Jérôme Broli Jazz und Swing im Jack Big Band, bevor er auf Pariser Bühnen (Gibus, New Morning, Elysée Montmartre) eine solide Bühnenerfahrung sammelte.</p><p>Als autodidaktischer Multiinstrumentalist bewegt er sich ebenso sicher am Saxophon, Schlagzeug, an der Flöte wie am Bass – zwischen Jazz-, Funk- und Rockprojekten. Als aktives Mitglied von Mélasoul und Gründer von Brass & Co bringt er sein Gespür für Zuhören und Arrangement in den Dienst der Bläsersektion und der musikalischen Kohärenz der Band.</p>",
-        "en": "<p>Trained at the conservatory on the transverse flute, Jérôme Broli discovered jazz and swing within the Jack Big Band before gaining solid stage experience on the Parisian scene (Gibus, New Morning, Elysée Montmartre).</p><p>A self-taught multi-instrumentalist, he plays saxophone, drums, flute, and bass with equal ease, moving between jazz, funk, and rock projects. As an active member of Mélasoul and founder of Brass & Co, he puts his sense of listening and arranging at the service of the horn sections and the musical cohesion of the group.</p>",
-        "es": "<p>Formado en el conservatorio en flauta travesera, Jérôme Broli descubrió el jazz y el swing dentro del Jack Big Band antes de adquirir una sólida experiencia escénica en los escenarios parisinos (Gibus, New Morning, Elysée Montmartre).</p><p>Multiinstrumentista autodidacta, se desenvuelve con soltura tanto al saxofón, como a la batería, la flauta o el bajo, entre proyectos de jazz, funk y rock. Miembro activo de Mélasoul y fundador de Brass & Co, pone su sentido de la escucha y del arreglo al servicio de las secciones de metales y de la cohesión musical del grupo.</p>",
-        "fr": "<p>Formé au conservatoire à la flûte traversière, Jérôme Broli découvre le jazz et le swing au sein du Jack Big Band avant de se forger une solide expérience scénique sur les scènes parisiennes (Gibus, New Morning, Elysée Montmartre).</p><p>Multi-instrumentiste autodidacte, il évolue aussi bien au saxophone, à la batterie, à la flûte qu'à la basse, entre projets jazz, funk et rock. Membre actif de Mélasoul et fondateur de Brass & Co, il met son sens de l'écoute et de l'arrangement au service des sections cuivres et de la cohésion musicale du groupe.</p>",
-        "it": "<p>Formatosi al conservatorio al flauto traverso, Jérôme Broli ha scoperto il jazz e lo swing all'interno del Jack Big Band, prima di acquisire una solida esperienza sul palco nelle scene parigine (Gibus, New Morning, Elysée Montmartre).</p><p>Polistrumentista autodidatta, si esprime con la stessa facilità al sassofono, alla batteria, al flauto e al basso, tra progetti jazz, funk e rock. Membro attivo dei Mélasoul e fondatore dei Brass & Co, mette il suo senso dell'ascolto e dell'arrangiamento al servizio delle sezioni fiati e della coesione musicale del gruppo.</p>"
-      },
-      "roles": ["saxophone"],
-      "range": ""
-    }, {
-      "fullName": "William",
-      "picture": "William.webp",
-      "pictureCredit": "",
-      "bio": {
-        "de": "<p>Als klassischer Pianist begann ich meine musikalische Laufbahn – bis zu meinem Ausschluss aus dem Konservatorium im Alter von 11 Jahren. Danach erkundete ich Jazz und moderne Musik als Autodidakt. Später entdeckte ich das Alt- und Baritonsaxophon, mit denen ich mich intensiv mit Improvisation, Funk, Soul und Groove beschäftigte, insbesondere in Big Bands, aber auch mit Rock-, Reggae- und Punkgruppen.</p><p>Von Pink Floyd bis Electrodeluxe, über Maceo Parker, Wayne Shorter und David Sanborn – sobald irgendwo ein Saxophon Platz findet, bin ich dabei. Klänge zu spielen, die entweder sphärisch oder im Gegenteil sehr perkussiv sind, ist meine Leidenschaft.</p>",
-        "en": "<p>I started as a classical pianist, until I was expelled from the conservatory at the age of 11. After that, I explored jazz and contemporary music as a self-taught musician. Then I discovered the alto and baritone saxophones, with which I truly began to work on improvisation, funk, soul, and groove — especially in big bands, but also rock, reggae, and punk with various music groups.</p><p>From Pink Floyd to Electrodeluxe, through Maceo Parker, Wayne Shorter, and David Sanborn — as soon as there's a chance to add some sax to modern music, I'm in. Playing sounds that are either atmospheric or, on the contrary, very percussive, is my greatest joy.</p>",
-        "es": "<p>Pianista clásico en mis comienzos, hasta que me expulsaron del conservatorio a los 11 años, luego exploré el jazz y las músicas actuales como autodidacta. Después descubrí el saxofón alto y barítono, con los que realmente trabajé la improvisación, el funk, el soul y el groove, especialmente en big bands, pero también el rock, el reggae y el punk en diversos grupos musicales.</p><p>De Pink Floyd a Electrodeluxe, pasando por Maceo Parker, Wayne Shorter y David Sanborn, en cuanto se puede poner saxo en la música moderna, ahí estoy. Tocar sonidos envolventes o, al contrario, muy percusivos, es mi placer.</p>",
-        "fr": "<p>Pianiste classique à mes débuts, jusqu à mon renvoi du conservatoire à 11 ans, j'ai ensuite exploré le jazz et les musiques actuelles en autodidacte. Puis j'ai découvert le saxophone alto et baryton avec lesquels j'ai réellement travaillé l'improvisation, le funk, la soul et le groove, notamment en big band, mais également le rock, le reggae et le punk dans divers groupes de musique.</p><p>De Pink Floyd à Electrodeluxe, en passant par Maceo Parker, Wayne Shorter et David Sanborn, dès qu'on peut mettre du saxo dans de la musique moderne, je suis preneur. Jouer des sons planant ou à l'inverse très percussifs, c'est mon plaisir.</p>",
-        "it": "<p>Pianista classico agli inizi, fino alla mia espulsione dal conservatorio a 11 anni, ho poi esplorato il jazz e la musica contemporanea da autodidatta. Successivamente ho scoperto il sassofono contralto e baritono, con i quali ho davvero lavorato sull'improvvisazione, il funk, il soul e il groove, soprattutto in big band, ma anche nel rock, nel reggae e nel punk con diversi gruppi musicali.</p><p>Da Pink Floyd a Electrodeluxe, passando per Maceo Parker, Wayne Shorter e David Sanborn — ogni volta che si può inserire un sax nella musica moderna, io ci sono. Suonare suoni eterei o, al contrario, molto percussivi, è il mio piacere.</p>"
-      },
-      "roles": ["saxophone"],
-      "range": ""
-    }, {
-      "fullName": "Véronique",
+      "fullName": "Véronique SOUBERBIELLE",
       "picture": "Véronique.webp",
       "pictureCredit": "",
       "bio": {
@@ -88,20 +76,7 @@
       "roles": ["trumpet"],
       "range": ""
     }, {
-      "fullName": "Florent",
-      "picture": "Florent.webp",
-      "pictureCredit": "",
-      "bio": {
-        "de": "<p>Als leidenschaftlicher Posaunist, ausgebildet in mehreren Konservatorien der Île-de-France, hatte ich das Glück, auf zahlreichen Pariser Bühnen mit verschiedenen Sinfonieorchestern aufzutreten. Diese Erfahrungen ermöglichten es mir, meinen samtigen Klang, mein feines Gehör und meine Freude am gemeinsamen Spiel zu festigen.</p><p>Mit der Zeit verspürte ich das Bedürfnis, freiere musikalische Welten zu erkunden, in denen die Posaune grooven, in Dialog treten und auf andere Weise schwingen kann. So wandte ich mich ganz natürlich der Soul- und Funkmusik zu, inspiriert von Künstlern wie Fred Wesley und Nils Landgren.</p><p>Heute versuche ich, die Finesse der Klassik mit der Energie des Groove zu verbinden, um eine musikalische Identität zu schaffen, die aufrichtig, ausdrucksstark und ganz dem gemeinsamen Erleben gewidmet ist.</p>",
-        "en": "<p>A passionate trombonist, trained in several conservatories in the Île-de-France region, I've had the opportunity to perform on many Parisian stages with different symphony orchestras. These experiences have allowed me to develop my velvety tone, my keen sense of listening, and my love for collective performance.</p><p>Over time, I felt the need to explore freer musical worlds, where the trombone can groove, converse, and vibrate differently. It was only natural that I turned to soul and funk, inspired by figures such as Fred Wesley and Nils Landgren.</p><p>Today, I seek to blend the finesse of classical music with the energy of groove, to build a musical identity that is sincere, expressive, and deeply rooted in sharing.</p>",
-        "es": "<p>Trombonista apasionado, formado en varios conservatorios de Île-de-France, he tenido la suerte de actuar en numerosos escenarios parisinos con diferentes orquestas sinfónicas. Estas experiencias me han permitido afirmar mi sonido aterciopelado, mi precisión auditiva y mi gusto por el juego colectivo.</p><p>Con el tiempo sentí la necesidad de explorar universos más libres, donde el trombón puede hacer groove, dialogar y vibrar de otra manera. De forma natural me acerqué al soul y al funk, inspirado por figuras como Fred Wesley y Nils Landgren.</p><p>Hoy busco combinar la finura de la música clásica con la energía del groove, para construir una identidad musical sincera, expresiva y decididamente orientada al compartir.</p>",
-        "fr": "<p>Tromboniste passionné, formé dans plusieurs conservatoires d'Île-de-France, j'ai eu la chance d'évoluer sur de nombreuses scènes parisiennes avec différents orchestres symphoniques. Ces expériences m'ont permis d'affirmer mon son velouté, ma justesse d'écoute et mon goût du jeu collectif.</p><p>Au fil du temps, j'ai ressenti le besoin d'explorer des univers plus libres, où le trombone peut groover, dialoguer et vibrer autrement. C'est naturellement que je me suis tourné vers la soul et le funk, inspiré par des figures comme Fred Wesley ou Nils Landgren.</p><p>Aujourd'hui, je cherche à mêler la finesse du classique à l'énergie du groove, pour construire une identité musicale sincère, expressive et résolument tournée vers le partage.</p>",
-        "it": "<p>Trombettista appassionato, formatomi in diversi conservatori dell'Île-de-France, ho avuto la fortuna di esibirmi su numerosi palchi parigini con varie orchestre sinfoniche. Queste esperienze mi hanno permesso di affinare il mio suono vellutato, la mia precisione d'ascolto e il mio gusto per il gioco collettivo.</p><p>Col tempo ho sentito il bisogno di esplorare universi più liberi, dove il trombone può fare groove, dialogare e vibrare in modo diverso. È stato naturale per me avvicinarmi al soul e al funk, ispirato da figure come Fred Wesley e Nils Landgren.</p><p>Oggi cerco di unire la finezza della musica classica con l'energia del groove, per costruire un'identità musicale sincera, espressiva e profondamente orientata alla condivisione.</p>"
-      },
-      "roles": ["trombone"],
-      "range": ""
-    }, {
-      "fullName": "Vincent",
+      "fullName": "Vincent GRECO",
       "picture": "Vincent.webp",
       "pictureCredit": "",
       "bio": {
@@ -114,7 +89,46 @@
       "roles": ["bass"],
       "range": ""
     }, {
-      "fullName": "François",
+      "fullName": "David COULANGE",
+      "picture": "David.webp",
+      "pictureCredit": "",
+      "bio": {
+        "de": "<p>Ich begann im Alter von 9 Jahren mit der Musik, konnte später ein Konservatorium besuchen und in einem Jazzorchester spielen, was mir half, mehr Flexibilität in meinem Spiel zu entwickeln. Danach war ich Teil vieler Bands – Trash, Reggae, Punk, Funk – und dank meines Wissens konnte ich mich Tag für Tag weiter entfalten. Seit einiger Zeit habe ich das Vergnügen, in einer energiegeladenen Band zu spielen – einfach großartig.</p>",
+        "en": "<p>I started music at the age of 9, then joined a conservatory and played in a jazz orchestra, which helped me gain flexibility in my playing. Later, I was part of many bands – trash, reggae, punk, funk – and thanks to my experience, I've been able to grow day by day. For some time now, I've had the pleasure of playing in a band full of energy — pure joy.</p>",
+        "es": "<p>Empecé en la música a los 9 años, luego pude entrar en un conservatorio y tocar en una orquesta de jazz, lo que me permitió adquirir flexibilidad en mi manera de tocar. Después formé parte de muchos grupos —de trash, reggae, punk, funk— y gracias a mis conocimientos he podido desarrollarme cada día más. Desde hace un tiempo tengo el placer de tocar en un grupo lleno de energía, ¡una auténtica pasada!</p>",
+        "fr": "<p>J'ai commencé la musique à l'âge de 9 ans, ensuite j'ai pu intégrer un conservatoire et jouer dans un orchestre Jazz qui m'a permis d'acquérir la souplesse dans mon jeu, ensuite j'ai fait partie de beaucoup de groupes comme le trash, le reggae, le punk, la funk, riche de mes connaissances, j'ai pu m'épanouir de jour en jour. Depuis un moment j'ai le plaisir de jouer dans un groupe plein d'énergie, le kiffe.</p>",
+        "it": "<p>Ho iniziato con la musica all'età di 9 anni, poi ho potuto entrare in un conservatorio e suonare in un'orchestra jazz, che mi ha permesso di acquisire scioltezza nel mio modo di suonare. In seguito ho fatto parte di molti gruppi —trash, reggae, punk, funk— e grazie alle mie conoscenze ho potuto crescere giorno dopo giorno. Da un po' di tempo ho il piacere di suonare in una band piena di energia — una vera goduria.</p>"
+      },
+      "roles": ["drums"],
+      "range": ""
+    }, {
+      "fullName": "Jérôme BROLI",
+      "picture": "Jérôme.webp",
+      "pictureCredit": "",
+      "bio": {
+        "de": "<p>Am Konservatorium an der Querflöte ausgebildet, entdeckte Jérôme Broli Jazz und Swing im Jack Big Band, bevor er auf Pariser Bühnen (Gibus, New Morning, Elysée Montmartre) eine solide Bühnenerfahrung sammelte.</p><p>Als autodidaktischer Multiinstrumentalist bewegt er sich ebenso sicher am Saxophon, Schlagzeug, an der Flöte wie am Bass – zwischen Jazz-, Funk- und Rockprojekten. Als aktives Mitglied von Mélasoul und Gründer von Brass & Co bringt er sein Gespür für Zuhören und Arrangement in den Dienst der Bläsersektion und der musikalischen Kohärenz der Band.</p>",
+        "en": "<p>Trained at the conservatory on the transverse flute, Jérôme Broli discovered jazz and swing within the Jack Big Band before gaining solid stage experience on the Parisian scene (Gibus, New Morning, Elysée Montmartre).</p><p>A self-taught multi-instrumentalist, he plays saxophone, drums, flute, and bass with equal ease, moving between jazz, funk, and rock projects. As an active member of Mélasoul and founder of Brass & Co, he puts his sense of listening and arranging at the service of the horn sections and the musical cohesion of the group.</p>",
+        "es": "<p>Formado en el conservatorio en flauta travesera, Jérôme Broli descubrió el jazz y el swing dentro del Jack Big Band antes de adquirir una sólida experiencia escénica en los escenarios parisinos (Gibus, New Morning, Elysée Montmartre).</p><p>Multiinstrumentista autodidacta, se desenvuelve con soltura tanto al saxofón, como a la batería, la flauta o el bajo, entre proyectos de jazz, funk y rock. Miembro activo de Mélasoul y fundador de Brass & Co, pone su sentido de la escucha y del arreglo al servicio de las secciones de metales y de la cohesión musical del grupo.</p>",
+        "fr": "<p>Formé au conservatoire à la flûte traversière, Jérôme Broli découvre le jazz et le swing au sein du Jack Big Band avant de se forger une solide expérience scénique sur les scènes parisiennes (Gibus, New Morning, Elysée Montmartre).</p><p>Multi-instrumentiste autodidacte, il évolue aussi bien au saxophone, à la batterie, à la flûte qu'à la basse, entre projets jazz, funk et rock. Membre actif de Mélasoul et fondateur de Brass & Co, il met son sens de l'écoute et de l'arrangement au service des sections cuivres et de la cohésion musicale du groupe.</p>",
+        "it": "<p>Formatosi al conservatorio al flauto traverso, Jérôme Broli ha scoperto il jazz e lo swing all'interno del Jack Big Band, prima di acquisire una solida esperienza sul palco nelle scene parigine (Gibus, New Morning, Elysée Montmartre).</p><p>Polistrumentista autodidatta, si esprime con la stessa facilità al sassofono, alla batteria, al flauto e al basso, tra progetti jazz, funk e rock. Membro attivo dei Mélasoul e fondatore dei Brass & Co, mette il suo senso dell'ascolto e dell'arrangiamento al servizio delle sezioni fiati e della coesione musicale del gruppo.</p>"
+      },
+      "roles": ["saxophone"],
+      "range": ""
+    }, {
+      "fullName": "Florent GRENARD",
+      "picture": "Florent.webp",
+      "pictureCredit": "",
+      "bio": {
+        "de": "<p>Als leidenschaftlicher Posaunist, ausgebildet in mehreren Konservatorien der Île-de-France, hatte ich das Glück, auf zahlreichen Pariser Bühnen mit verschiedenen Sinfonieorchestern aufzutreten. Diese Erfahrungen ermöglichten es mir, meinen samtigen Klang, mein feines Gehör und meine Freude am gemeinsamen Spiel zu festigen.</p><p>Mit der Zeit verspürte ich das Bedürfnis, freiere musikalische Welten zu erkunden, in denen die Posaune grooven, in Dialog treten und auf andere Weise schwingen kann. So wandte ich mich ganz natürlich der Soul- und Funkmusik zu, inspiriert von Künstlern wie Fred Wesley und Nils Landgren.</p><p>Heute versuche ich, die Finesse der Klassik mit der Energie des Groove zu verbinden, um eine musikalische Identität zu schaffen, die aufrichtig, ausdrucksstark und ganz dem gemeinsamen Erleben gewidmet ist.</p>",
+        "en": "<p>A passionate trombonist, trained in several conservatories in the Île-de-France region, I've had the opportunity to perform on many Parisian stages with different symphony orchestras. These experiences have allowed me to develop my velvety tone, my keen sense of listening, and my love for collective performance.</p><p>Over time, I felt the need to explore freer musical worlds, where the trombone can groove, converse, and vibrate differently. It was only natural that I turned to soul and funk, inspired by figures such as Fred Wesley and Nils Landgren.</p><p>Today, I seek to blend the finesse of classical music with the energy of groove, to build a musical identity that is sincere, expressive, and deeply rooted in sharing.</p>",
+        "es": "<p>Trombonista apasionado, formado en varios conservatorios de Île-de-France, he tenido la suerte de actuar en numerosos escenarios parisinos con diferentes orquestas sinfónicas. Estas experiencias me han permitido afirmar mi sonido aterciopelado, mi precisión auditiva y mi gusto por el juego colectivo.</p><p>Con el tiempo sentí la necesidad de explorar universos más libres, donde el trombón puede hacer groove, dialogar y vibrar de otra manera. De forma natural me acerqué al soul y al funk, inspirado por figuras como Fred Wesley y Nils Landgren.</p><p>Hoy busco combinar la finura de la música clásica con la energía del groove, para construir una identidad musical sincera, expresiva y decididamente orientada al compartir.</p>",
+        "fr": "<p>Tromboniste passionné, formé dans plusieurs conservatoires d'Île-de-France, j'ai eu la chance d'évoluer sur de nombreuses scènes parisiennes avec différents orchestres symphoniques. Ces expériences m'ont permis d'affirmer mon son velouté, ma justesse d'écoute et mon goût du jeu collectif.</p><p>Au fil du temps, j'ai ressenti le besoin d'explorer des univers plus libres, où le trombone peut groover, dialoguer et vibrer autrement. C'est naturellement que je me suis tourné vers la soul et le funk, inspiré par des figures comme Fred Wesley ou Nils Landgren.</p><p>Aujourd'hui, je cherche à mêler la finesse du classique à l'énergie du groove, pour construire une identité musicale sincère, expressive et résolument tournée vers le partage.</p>",
+        "it": "<p>Trombettista appassionato, formatomi in diversi conservatori dell'Île-de-France, ho avuto la fortuna di esibirmi su numerosi palchi parigini con varie orchestre sinfoniche. Queste esperienze mi hanno permesso di affinare il mio suono vellutato, la mia precisione d'ascolto e il mio gusto per il gioco collettivo.</p><p>Col tempo ho sentito il bisogno di esplorare universi più liberi, dove il trombone può fare groove, dialogare e vibrare in modo diverso. È stato naturale per me avvicinarmi al soul e al funk, ispirato da figure come Fred Wesley e Nils Landgren.</p><p>Oggi cerco di unire la finezza della musica classica con l'energia del groove, per costruire un'identità musicale sincera, espressiva e profondamente orientata alla condivisione.</p>"
+      },
+      "roles": ["trombone"],
+      "range": ""
+    }, {
+      "fullName": "François TOGNY",
       "picture": "François.webp",
       "pictureCredit": "",
       "bio": {
@@ -127,64 +141,147 @@
       "roles": ["percussion"],
       "range": ""
     }, {
-      "fullName": "David",
-      "picture": "David.webp",
+      "fullName": "William LEE",
+      "picture": "William.webp",
       "pictureCredit": "",
       "bio": {
-        "de": "<p>Ich begann im Alter von 9 Jahren mit der Musik, konnte später ein Konservatorium besuchen und in einem Jazzorchester spielen, was mir half, mehr Flexibilität in meinem Spiel zu entwickeln. Danach war ich Teil vieler Bands – Trash, Reggae, Punk, Funk – und dank meines Wissens konnte ich mich Tag für Tag weiter entfalten. Seit einiger Zeit habe ich das Vergnügen, in einer energiegeladenen Band zu spielen – einfach großartig.</p>",
-        "en": "<p>I started music at the age of 9, then joined a conservatory and played in a jazz orchestra, which helped me gain flexibility in my playing. Later, I was part of many bands – trash, reggae, punk, funk – and thanks to my experience, I've been able to grow day by day. For some time now, I've had the pleasure of playing in a band full of energy — pure joy.</p>",
-        "es": "<p>Empecé en la música a los 9 años, luego pude entrar en un conservatorio y tocar en una orquesta de jazz, lo que me permitió adquirir flexibilidad en mi manera de tocar. Después formé parte de muchos grupos —de trash, reggae, punk, funk— y gracias a mis conocimientos he podido desarrollarme cada día más. Desde hace un tiempo tengo el placer de tocar en un grupo lleno de energía, ¡una auténtica pasada!</p>",
-        "fr": "<p>J'ai commencé la musique à l'âge de 9 ans, ensuite j'ai pu intégrer un conservatoire et jouer dans un orchestre Jazz qui m'a permis d'acquérir la souplesse dans mon jeu, ensuite j'ai fait partie de beaucoup de groupes comme le trash, le reggae, le punk, la funk, riche de mes connaissances, j'ai pu m'épanouir de jour en jour. Depuis un moment j'ai le plaisir de jouer dans un groupe plein d'énergie, le kiffe.</p>",
-        "it": "<p>Ho iniziato con la musica all'età di 9 anni, poi ho potuto entrare in un conservatorio e suonare in un'orchestra jazz, che mi ha permesso di acquisire scioltezza nel mio modo di suonare. In seguito ho fatto parte di molti gruppi —trash, reggae, punk, funk— e grazie alle mie conoscenze ho potuto crescere giorno dopo giorno. Da un po' di tempo ho il piacere di suonare in una band piena di energia — una vera goduria.</p>"
+        "de": "<p>Als klassischer Pianist begann ich meine musikalische Laufbahn – bis zu meinem Ausschluss aus dem Konservatorium im Alter von 11 Jahren. Danach erkundete ich Jazz und moderne Musik als Autodidakt. Später entdeckte ich das Alt- und Baritonsaxophon, mit denen ich mich intensiv mit Improvisation, Funk, Soul und Groove beschäftigte, insbesondere in Big Bands, aber auch mit Rock-, Reggae- und Punkgruppen.</p><p>Von Pink Floyd bis Electrodeluxe, über Maceo Parker, Wayne Shorter und David Sanborn – sobald irgendwo ein Saxophon Platz findet, bin ich dabei. Klänge zu spielen, die entweder sphärisch oder im Gegenteil sehr perkussiv sind, ist meine Leidenschaft.</p>",
+        "en": "<p>I started as a classical pianist, until I was expelled from the conservatory at the age of 11. After that, I explored jazz and contemporary music as a self-taught musician. Then I discovered the alto and baritone saxophones, with which I truly began to work on improvisation, funk, soul, and groove — especially in big bands, but also rock, reggae, and punk with various music groups.</p><p>From Pink Floyd to Electrodeluxe, through Maceo Parker, Wayne Shorter, and David Sanborn — as soon as there's a chance to add some sax to modern music, I'm in. Playing sounds that are either atmospheric or, on the contrary, very percussive, is my greatest joy.</p>",
+        "es": "<p>Pianista clásico en mis comienzos, hasta que me expulsaron del conservatorio a los 11 años, luego exploré el jazz y las músicas actuales como autodidacta. Después descubrí el saxofón alto y barítono, con los que realmente trabajé la improvisación, el funk, el soul y el groove, especialmente en big bands, pero también el rock, el reggae y el punk en diversos grupos musicales.</p><p>De Pink Floyd a Electrodeluxe, pasando por Maceo Parker, Wayne Shorter y David Sanborn, en cuanto se puede poner saxo en la música moderna, ahí estoy. Tocar sonidos envolventes o, al contrario, muy percusivos, es mi placer.</p>",
+        "fr": "<p>Pianiste classique à mes débuts, jusqu à mon renvoi du conservatoire à 11 ans, j'ai ensuite exploré le jazz et les musiques actuelles en autodidacte. Puis j'ai découvert le saxophone alto et baryton avec lesquels j'ai réellement travaillé l'improvisation, le funk, la soul et le groove, notamment en big band, mais également le rock, le reggae et le punk dans divers groupes de musique.</p><p>De Pink Floyd à Electrodeluxe, en passant par Maceo Parker, Wayne Shorter et David Sanborn, dès qu'on peut mettre du saxo dans de la musique moderne, je suis preneur. Jouer des sons planant ou à l'inverse très percussifs, c'est mon plaisir.</p>",
+        "it": "<p>Pianista classico agli inizi, fino alla mia espulsione dal conservatorio a 11 anni, ho poi esplorato il jazz e la musica contemporanea da autodidatta. Successivamente ho scoperto il sassofono contralto e baritono, con i quali ho davvero lavorato sull'improvvisazione, il funk, il soul e il groove, soprattutto in big band, ma anche nel rock, nel reggae e nel punk con diversi gruppi musicali.</p><p>Da Pink Floyd a Electrodeluxe, passando per Maceo Parker, Wayne Shorter e David Sanborn — ogni volta che si può inserire un sax nella musica moderna, io ci sono. Suonare suoni eterei o, al contrario, molto percussivi, è il mio piacere.</p>"
       },
-      "roles": ["drums"],
+      "roles": ["saxophone"],
       "range": ""
     }
   ],
-  "pastMembers": [],
-  "events": [
+  "events": {
+    "optA": {
+      "de": "<h4>Option A: Komplettleistung</h4><p>Wir bieten Ihnen eine \"All-inclusive\"-Leistung, bei der wir uns um alles kümmern:</p><br><ul><li>Beschallung (Front und Monitore);</li><li>Beleuchtung;</li><li>Ton- und Lichtregie;</li><li>Techniker bei Bedarf.</li></ul><br><p>Je nach verfügbarem Platz passen wir die Besetzung der Band zwischen 6 und 10 Musikern an.</p><br><p>Ein Techniker kann uns unterstützen und die Ton- und Lichtregie übernehmen.</p>",
+      "en": "<h4>Option A: turnkey performance</h4><p>We offer an all-inclusive service where we take care of everything:</p><br><ul><li>front-of-house and monitor sound system;</li><li>lighting;</li><li>sound and lighting control;</li><li>technician if needed.</li></ul><br><p>Depending on the available space, we will adapt the band size between 6 and 10 musicians.</p><br><p>A technician can assist us and handle sound and lighting operations.</p>",
+      "es": "<h4>Opción A: prestación llave en mano</h4><p>Ofrecemos un servicio \"todo incluido\" en el que nos encargamos de todo:</p><br><ul><li>sonido de sala y monitores;</li><li>iluminación;</li><li>control de sonido e iluminación;</li><li>técnico si es necesario.</li></ul><br><p>Según el espacio disponible, adaptaremos el número de músicos entre 6 y 10.</p><br><p>Un técnico podrá ayudarnos y encargarse del control de sonido e iluminación.</p>",
+      "fr": "<h4>Option A : prestation clé en main</h4><p>Nous vous proposons une prestation « tout compris » dans laquelle nous nous occupons de tout :</p><br><ul><li>sonorisation façade et retours ;</li><li>éclairage ;</li><li>régie son et lumières ;</li><li>technicien si nécessaire.</li></ul><br><p>Selon l'espace disponible, nous adapterons l'effectif du groupe entre 6 et 10 musiciens.</p><br><p>Un technicien pourra venir nous prêter main forte et s'occuper de la régie son et lumières.</p>",
+      "it": "<h4>Opzione A: servizio chiavi in mano</h4><p>Offriamo un servizio \"tutto compreso\" in cui ci occupiamo di tutto:</p><br><ul><li>impianto audio frontale e monitor;</li><li>illuminazione;</li><li>regia audio e luci;</li><li>tecnico se necessario.</li></ul><br><p>In base allo spazio disponibile, adatteremo la formazione del gruppo tra 6 e 10 musicisti.</p><br><p>Un tecnico potrà assisterci e occuparsi della regia audio e luci.</p>"
+    },
+    "optB": {
+      "de": "<h4>Option B: Technische Betreuung durch den Veranstalter</h4><p>Wenn Sie bereits über Technik vor Ort verfügen und/oder sich selbst darum kümmern möchten (oder es einem Tontechniker überlassen), denken Sie bitte daran, das notwendige Backline-Equipment bereitzustellen. Alle wichtigen Informationen finden Sie in unserem <a href=\"/assets/doc/Fiche-Technique-v2026.pdf\">Technical Rider</a>.</p>",
+      "en": "<h4>Option B: technical setup handled by the organizer</h4><p>If you already have equipment on site and/or prefer to handle it yourself (or delegate to a sound engineer), please make sure to provide the necessary backline. All useful information is available in our <a href=\"/assets/doc/Fiche-Technique-v2026.pdf\">technical rider</a>.</p>",
+      "es": "<h4>Opción B: gestión técnica por parte del organizador</h4><p>Si ya dispone de medios técnicos en el lugar y/o prefiere encargarse usted mismo (o delegarlo a un técnico de sonido), no olvide prever el backline necesario. Toda la información útil está disponible en nuestra <a href=\"/assets/doc/Fiche-Technique-v2026.pdf\">ficha técnica</a>.</p>",
+      "fr": "<h4>Option B : accueil technique par l'organisateur</h4><p>Si vous avez déjà des moyens sur place et/ou que vous préférez vous en occuper (ou déléguer à un sonorisateur), n'oubliez pas de prévoir le back line nécessaire. Toutes les informations utiles sont disponibles sur notre <a href=\"/assets/doc/Fiche-Technique-v2026.pdf\">fiche technique</a>.</p>",
+      "it": "<h4>Opzione B: gestione tecnica a carico dell'organizzatore</h4><p>Se disponete già di attrezzature sul posto e/o preferite occuparvene direttamente (o delegare a un tecnico del suono), assicuratevi di prevedere il backline necessario. Tutte le informazioni utili sono disponibili nella nostra <a href=\"/assets/doc/Fiche-Technique-v2026.pdf\">scheda tecnica</a>.</p>"
+    }
+  },
+  "setDescription": {
+    "de": "Wir passen die Setlist an die geplante Konzertdauer an, von 1 bis 3 Stunden Live-Musik. In jedem Fall schlagen wir Ihnen Titel aus der folgenden Auswahl vor:",
+    "en": "We adapt the setlist according to the planned concert duration, from 1 to 3 hours of live performance. In all cases, we will offer you songs from the following selection:",
+    "es": "Adaptamos la lista de canciones según la duración prevista del concierto, de 1 a 3 horas de actuación en vivo. En cualquier caso, le propondremos temas de la siguiente selección:",
+    "fr": "Nous adaptons la set-list selon le temps prévu pour le concert, de 1h à 3h de live. Dans tous les cas, nous vous proposerons des titres parmi les suivants :",
+    "it": "Adattiamo la scaletta in base alla durata prevista del concerto, da 1 a 3 ore di esibizione dal vivo. In ogni caso, vi proporremo brani tra i seguenti:"
+  },
+  "setlists": [
     {
-      "title": "La Nuit Melasoul au Planches",
-      "picture": "Evt3.webp",
-      "date": "2026-04-10",
-      "place": "Les Planches, Coignières",
-      "url": "https://www.facebook.com/events/1352634839882366",
-      "description": {
-        "de": "<p>Les Planches in Coignières empfängt Melasoul am 10. April 2026 für einen unvergesslichen Soul-Abend! Unser Kollektiv aus Leidenschaftlichen wird die Bühne mit all der Kraft und Emotion erobern, die die Magie des Soul ausmachen. Lassen Sie sich von feurigen Blechbläser-Arrangements, einer unerbittlichen Rhythmik und Stimmen, die direkt ins Herz treffen, umhüllen. Erleben Sie mit uns ein großzügiges und festliches musikalisches Erlebnis, bei dem Groove und Soul die Könige sein werden!</p>",
-        "en": "<p>Les Planches in Coignières will welcome Melasoul on April 10, 2026 for a memorable soul evening! Our collective of passionate musicians will take over the stage with all the power and emotion that make the magic of soul. Let yourself be wrapped in fiery brass arrangements, relentless rhythm and voices that touch straight to the heart. Come experience with us a generous and festive musical journey, where groove and soul will reign supreme!</p>",
-        "es": "<p>Les Planches de Coignières acogerá a Melasoul el 10 de abril de 2026 para una velada soul memorable! Nuestro colectivo de apasionados tomará el escenario con toda la potencia y emoción que hacen la magia del soul. Déjense envolver por arreglos de metales ardientes, una rítmica implacable y voces que tocan directamente el corazón. ¡Vengan a vivir con nosotros una experiencia musical generosa y festiva, donde el groove y el soul serán los reyes!</p>",
-        "fr": "<p>Les Planches de Coignières accueilleront Melasoul le 10 avril 2026 pour une soirée soul mémorable ! Notre collectif de passionnés investira la scène avec toute la puissance et l'émotion qui font la magie de la soul. Laissez-vous envelopper par des arrangements cuivrés enflammés, une rythmique implacable et des voix qui touchent droit au cœur. Venez vivre avec nous une expérience musicale généreuse et festive, où le groove et la soul seront rois !</p>",
-        "it": "<p>Les Planches di Coignières accoglierà i Melasoul il 10 aprile 2026 per una serata soul memorabile! Il nostro collettivo di appassionati conquisterà il palco con tutta la potenza e l'emozione che fanno la magia del soul. Lasciatevi avvolgere da arrangiamenti di ottoni infuocati, una ritmica implacabile e voci che toccano dritto al cuore. Venite a vivere con noi un'esperienza musicale generosa e festosa, dove il groove e il soul saranno sovrani!</p>"
-      }
+      "name": {
+        "de": "1<sup>.</sup> Set – 1 Std.",
+        "en": "1<sup>st</sup> set – 1h",
+        "es": "1<sup>er</sup> set – 1 h",
+        "fr": "1<sup>er</sup> set – 1h",
+        "it": "1<sup>º</sup> set – 1 h"
+      },
+      "titles": [
+        ["The Force", "Lettuce"],
+        ["Digging on James Brown", "The Tower of Power"],
+        ["So much oil in the ground", "The Tower of Power"],
+        ["Canned heat", "Jamiroquai"],
+        ["Feed the monkey", "Chris Grey & The BlueSpand"],
+        ["Back in Black", "AC/DC / Fake Music"],
+        ["Crazy", "Gnarls Barkley / Scary Pockets"],
+        ["KO", "Electro Deluxe"],
+        ["Staying alive", "Bee Gees / Electro Deluxe"],
+        ["Backyard Party", "Ole Borud"],
+        ["About damn time", "Lizzo"],
+        ["People get up and drive your funky soul", "James Brown"],
+        ["Levitating", "Dua Lipa"],
+        ["Help somebody", "Maxwell"]
+      ]
     }, {
-      "title": "La Nuit Melasoul au Meeple Bar",
-      "picture": "Evt2.webp",
-      "date": "2026-03-28",
-      "place": "Le Meeple Bar, Maurepas",
-      "url": "https://www.facebook.com/events/897061572920730",
-      "description": {
-        "de": "<p>In der Meeple Bar in Maurepas wird Melasoul am 28. März 2026 die Bühne zum Glühen bringen! In der warmen und intimen Atmosphäre dieses einzigartigen Ortes wird dieses Kollektiv leidenschaftlicher Musiker Sie in das bezaubernde Universum des Soul eintauchen lassen. Bereiten Sie sich auf einen elektrischen Abend vor, bei dem funkelnde Blechbläser, unwiderstehlicher Groove und charismatische Stimmen sich vermischen, um eine explosive Stimmung zu schaffen. Melasoul wird die Meeple Bar in eine wahre Feier des Soul verwandeln, wo mitreißende Energie und Authentizität garantiert sind. Eine traumhafte Gelegenheit, sich von mitreißenden Rhythmen tragen zu lassen und einen intensiven und festlichen musikalischen Moment zu erleben!</p>",
-        "en": "<p>At the Meeple Bar in Maurepas, Melasoul is ready to set the stage on fire on March 28, 2026! In the warm and intimate atmosphere of this unique venue, this collective of passionate musicians will immerse you in the captivating universe of soul. Get ready for an electric evening where sparkling horns, irresistible groove and charismatic voices will blend to create an explosive atmosphere. Melasoul will transform the Meeple Bar into a true celebration of soul, where contagious energy and authenticity will be on full display. A perfect opportunity to let yourself be carried away by exhilarating rhythms and experience an intense and festive musical moment!</p>",
-        "es": "<p>En el Meeple Bar de Maurepas, ¡Melasoul se prepara para incendiar el escenario el 28 de marzo de 2026! En la atmósfera cálida e íntima de este lugar único, este colectivo de músicos apasionados les sumergirá en el universo cautivador del soul. Prepárense para una velada eléctrica donde metales resplandecientes, groove irresistible y voces carismáticas se mezclarán para crear un ambiente explosivo. Melasoul transformará el Meeple Bar en una verdadera celebración del soul, donde energía contagiosa y autenticidad estarán presentes. ¡Una ocasión soñada para dejarse llevar por ritmos endiablados y vivir un momento musical intenso y festivo!</p>",
-        "fr": "<p>Au Meeple Bar de Maurepas, Melasoul s'apprête à enflammer la scène le 28 mars 2026 ! Dans l'atmosphère chaleureuse et intimiste de ce lieu unique, ce collectif de musiciens passionnés vous plongera dans l'univers envoûtant de la soul. Préparez-vous à une soirée électrique où cuivres étincelants, groove irrésistible et voix charismatiques se mêleront pour créer une ambiance explosive. Melasoul transformera le Meeple Bar en véritable célébration de la soul, où énergie communicative et authenticité seront au rendez-vous. Une occasion rêvée de se laisser porter par des rythmiques endiablées et de vivre un moment musical intense et festif !</p>",
-        "it": "<p>Al Meeple Bar di Maurepas, i Melasoul si preparano a incendiare il palco il 28 marzo 2026! Nell'atmosfera calda e intima di questo luogo unico, questo collettivo di musicisti appassionati vi immergerà nell'universo ammaliante del soul. Preparatevi a una serata elettrica dove ottoni scintillanti, groove irresistibile e voci carismatiche si fonderanno per creare un'atmosfera esplosiva. I Melasoul trasformeranno il Meeple Bar in una vera celebrazione del soul, dove energia contagiosa e autenticità saranno protagoniste. Un'occasione da sogno per lasciarsi trasportare da ritmiche travolgenti e vivere un momento musicale intenso e festoso!</p>"
-      }
+      "name": {
+        "de": "Pause 10 Min.",
+        "en": "10 min break",
+        "es": "Pausa 10 min",
+        "fr": "Pause 10min",
+        "it": "Pausa 10 min"
+      },
+      "titles": []
     }, {
-      "title": "La Nuit Melasoul au Court-Bouillon",
-      "picture": "Evt1.webp",
-      "date": "2026-02-28",
-      "place": "Le Court Bouillon, Rambouillet",
-      "url": "https://www.facebook.com/events/1849621919008122",
-      "description": {
-        "de": "<p>Am 28. Februar 2026 empfängt das Court-Bouillon in Rambouillet Melasoul für einen unvergesslichen Soul-Abend. Diese großzügige Formation aus etwa zehn Musikern entführt Sie in die warme und berauschende Welt des Soul und interpretiert die größten Klassiker des Genres mit Energie und Authentizität neu. Zwischen strahlenden Blechbläsern, grooviger Rhythmussektion und kraftvollen Stimmen verspricht Melasoul, den Saal zum Beben zu bringen und Sie die ganze Nacht zum Tanzen zu bewegen. Ein Konzert, das man nicht verpassen sollte für alle Liebhaber guter Vibes und Musik mit Seele!</p>",
-        "en": "<p>On February 28, 2026, the Court-Bouillon in Rambouillet will welcome Melasoul for an unforgettable soul evening. This generous ensemble of around ten musicians will transport you into the warm and intoxicating universe of soul, revisiting the greatest classics of the genre with energy and authenticity. Between blazing horns, groovy rhythm section and powerful voices, Melasoul promises to make the venue vibrate and keep you dancing all night long. A concert not to be missed for all lovers of good vibes and music with soul!</p>",
-        "es": "<p>El 28 de febrero de 2026, el Court-Bouillon de Rambouillet acogerá a Melasoul para una velada soul inolvidable. Esta generosa formación de una decena de músicos les transportará al universo cálido y embriagador del soul, revisitando los grandes clásicos del género con energía y autenticidad. Entre metales brillantes, sección rítmica con groove y voces potentes, Melasoul promete hacer vibrar la sala y hacerles bailar hasta el final de la noche. ¡Un concierto imperdible para todos los amantes de las buenas vibraciones y la música con alma!</p>",
-        "fr": "<p>Le 28 février 2026, le Court Bouillon de Rambouillet accueillera Melasoul pour une soirée soul inoubliable. Notre formation généreuse vous transportera dans l'univers chaleureux et enivrant de la soul, revisitant les plus grands classiques du genre avec énergie et authenticité. Entre cuivres éclatants, section rythmique groovy et voix puissantes, Melasoul vous promet de vibrer et de vous faire danser jusqu'au bout de la nuit. Un concert à ne pas manquer pour tous les amateurs de bonnes vibrations et de musique qui a de l'âme !</p>",
-        "it": "<p>Il 28 febbraio 2026, il Court-Bouillon di Rambouillet accoglierà i Melasoul per una serata soul indimenticabile. Questa generosa formazione di una decina di musicisti vi trasporterà nell'universo caloroso e inebriante del soul, rivisitando i più grandi classici del genere con energia e autenticità. Tra ottoni brillanti, sezione ritmica groovy e voci potenti, i Melasoul promettono di far vibrare la sala e di farvi ballare fino a notte fonda. Un concerto da non perdere per tutti gli amanti delle buone vibrazioni e della musica che ha anima!</p>"
-      }
+      "name": {
+        "de": "2<sup>.</sup> Set – 50 Min.",
+        "en": "2<sup>nd</sup> set – 50 min",
+        "es": "2<sup>º</sup> set – 50 min",
+        "fr": "2<sup>ème</sup> set – 50min",
+        "it": "2<sup>º</sup> set – 50 min"
+      },
+      "titles": [
+        ["Babafururu", "Inconnu / Traditionnel"],
+        ["Little ghetto boy", "Donny Hathaway"],
+        ["Good life", "Sammy Rae & The Friends"],
+        ["This is a man's world", "James Brown"],
+        ["Women", "Neneh Cherry"],
+        ["I wish", "Stevie Wonder"],
+        ["I've got work to do", "Maceo Parker"],
+        ["Bad girls", "Donna Summer / Jamiroquai"],
+        ["Sex machine", "James Brown"],
+        ["Man in the Mirror", "Michael Jackson / The main Squeeze"]
+      ]
+    }, {
+      "name": {
+        "de": "Pause 10 Min.",
+        "en": "10 min break",
+        "es": "Pausa 10 min",
+        "fr": "Pause 10min",
+        "it": "Pausa 10 min"
+      },
+      "titles": []
+    }, {
+      "name": {
+        "de": "3<sup>.</sup> Set – 50 Min.",
+        "en": "3<sup>rd</sup> set – 50 min",
+        "es": "3<sup>er</sup> set – 50 min",
+        "fr": "3<sup>ème</sup> set – 50min",
+        "it": "3<sup>º</sup> set – 50 min"
+      },
+      "titles": [
+        ["I am feeling good", "Nina Simone"],
+        ["Smoke", "Electro Deluxe"],
+        ["Soul with a capital S", "The Tower of Power"],
+        ["Where is the love", "Electro Deluxe"],
+        ["Toxic", "Britney Spears / Funk You"],
+        ["Once you get a taste", "The Tower of Power"],
+        ["Get on the boat", "Prince"],
+        ["Kiss", "Prince"],
+        ["Uptown funk", "Mark Ronson / Bruno Mars"],
+        ["I feel good", "James Brown"]
+      ]
+    }, {
+      "name": {
+        "de": "Weitere mögliche Titel",
+        "en": "Other possible songs",
+        "es": "Otros temas posibles",
+        "fr": "Autres titres possibles",
+        "it": "Altri brani possibili"
+      },
+      "titles": [
+        ["Jealous guy", "Don Hathaway"],
+        ["House Party", "Nils Landgren Funk Unit"],
+        ["Superstition", "Stevie Wonder"],
+        ["Higher Ground", "Stevie Wonder"],
+        ["Talking loud", "Incognito"],
+        ["Too young to die", "Jamiroquai"],
+        ["Let's stay together", "Al green"],
+        ["Papa's got a brand new bag", "James Brown"],
+        ["Ain't no sunshine", "Bill Withers"]
+      ]
     }
   ],
-  "releases": [],
   "medias": [],
   "links": [
     {
@@ -207,10 +304,14 @@
       "type": "reverbnation",
       "name": "Reverbnation",
       "url": "https://www.reverbnation.com/melasoul"
-    }    
+    }, {
+      "type": "linkaband",
+      "name": "LinkaBand",
+      "url": "https://linkaband.com/melasoul"
+    } 
   ],
   "styles": {
-    "mainColor": "#FBB033",
+    "mainColor": "#ED7D31",
     "gradientStart": "#F16700",
     "gradientEnd": "#772E01"
   }

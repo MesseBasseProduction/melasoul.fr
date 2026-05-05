@@ -4,8 +4,8 @@ const compression = require('compression');
 const zlib = require('node:zlib');
 
 // App and preferences
-const APP_VERSION = '1.2.1';
-const APP_NAME = 'BandWebsite';
+const APP_VERSION = '1.3.0';
+const APP_NAME = 'Melasoul.fr';
 const APP_PORT = 8025;
 
 // Log server start
@@ -26,18 +26,6 @@ app.use('/assets', express.static(path.join(__dirname, '../assets'), { // Serve 
 app.get(['/', '/index', '/index.html'],  (req, res) => {
   console.log(`${(new Date()).toISOString()} | ${APP_NAME} v${APP_VERSION} | HTTP 200 ${req.url} page requested, return index.html`);
   res.sendFile(path.join(__dirname, '../assets/html/index.html'));
-});
-app.get(['/events', '/event.html', '/live', '/concerts', '/evenements'],  (req, res) => {
-  console.log(`${(new Date()).toISOString()} | ${APP_NAME} v${APP_VERSION} | HTTP 200 ${req.url} page requested, return events.html`);
-  res.sendFile(path.join(__dirname, '../assets/html/events.html'));
-});
-app.get(['/listen', '/listen.html', '/music', '/musique'],  (req, res) => {
-  console.log(`${(new Date()).toISOString()} | ${APP_NAME} v${APP_VERSION} | HTTP 200 ${req.url} page requested, return listen.html`);
-  res.sendFile(path.join(__dirname, '../assets/html/listen.html'));
-});
-app.get(['/tree', '/tree.html', '/links', '/liens'],  (req, res) => {
-  console.log(`${(new Date()).toISOString()} | ${APP_NAME} v${APP_VERSION} | HTTP 200 ${req.url} page requested, return tree.html`);
-  res.sendFile(path.join(__dirname, '../assets/html/tree.html'));
 });
 
 // Send / for all urls, avoid 404

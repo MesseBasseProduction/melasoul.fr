@@ -118,7 +118,7 @@ class BW {
         this._buildIndexPage();
       } else {
         if (DEBUG === true) { console.log(`Err. Unknown page type to init the website with`); }
-        reject(new Error('Invalid <body> type. Should be either index, listen or tree'));
+        reject(new Error('Invalid <body> type. Should be only index'));
       }
       resolve();
     });
